@@ -7,7 +7,7 @@ void staircase(int);
 
 int main(void){
 
-	staircase(7);
+	staircase(4);
 
 	return 0;
 }

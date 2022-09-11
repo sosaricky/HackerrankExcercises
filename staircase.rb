@@ -1,3 +1,5 @@
+# Level : Easy
+
 def staircase(n)
     # A loop that takes control over the number of lines written
     for line in (0...n).to_a do

@@ -1,5 +1,8 @@
-// Level Easy
-// Exercise : Designer PDF Viewer
+// Level : Easy
+// Exercise : DesignerPDFViewer.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
+
 
 #include <iostream>
 #include <vector>

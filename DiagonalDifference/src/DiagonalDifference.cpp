@@ -1,4 +1,7 @@
 // Level : Easy
+// Exercise : DiagonalDifference.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
 
 #include<iostream>
 #include<vector>

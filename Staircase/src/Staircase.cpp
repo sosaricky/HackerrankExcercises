@@ -1,4 +1,8 @@
 // Level : Easy
+// Exercise : Staircase.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
+
 
 #include <iostream>
 

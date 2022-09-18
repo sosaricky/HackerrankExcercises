@@ -1,7 +1,7 @@
 // Level : Easy
 // Exercise : AppleAndOrange.cpp
 // Topic  : 
-// Author : ricky
+// Author : RaulSosa
 
 #include<iostream>
 #include<vector>

@@ -1,5 +1,7 @@
-// Level Easy
-// Exercise : Grading Students
+// Level : Easy
+// Exercise : GradingStudents.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
 
 #include<iostream>
 #include<vector>

@@ -1,4 +1,8 @@
 // Level : Easy
+// Exercise : PlusMinus.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
+
 #include <iostream>
 #include <vector>
 using namespace std;

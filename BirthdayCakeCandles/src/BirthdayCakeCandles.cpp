@@ -1,3 +1,9 @@
+// Level : Easy
+// Exercise : BirthdayCakeCandles.cpp
+// Topic  : Algorithms
+// Author : RaulSosa
+
+
 #include <iostream>
 using namespace std;
 

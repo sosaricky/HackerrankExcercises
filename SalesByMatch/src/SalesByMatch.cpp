@@ -1,7 +1,8 @@
 // Level : Easy
-// Exercise : SalesByMatch.cpp
+// Exercise : SalesByMatch.cpp // Problema de encontrar los matcheos de pares de medias.
 // Topic  : Algorithms
 // Author : RaulSosa
+// Status : Not Solved
 #include<iostream>
 #include<vector>
 using namespace std;

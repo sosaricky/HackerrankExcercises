@@ -1,3 +1,4 @@
+# Note : This algorithm is pretty simple but the trick is take advantange from BigIntegers in ruby
 def extraLongFactorials(n)
     # factorial(n) = n*(n-1)(n-2)...3*2*1 
       productory = n

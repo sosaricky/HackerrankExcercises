@@ -12,7 +12,6 @@ vector<int> missingNumbers(vector<int> arr, vector<int> brr);
 
 int binarySearch(vector <int> arr, int value);
 int countMatches(vector <int> arr,int value);
-void bubbleSort(vector <int> &arr);
 void ShowVector(vector<int> arr);
 
 int main(){

@@ -18,7 +18,7 @@ apariciones de la letra "a" en los primeros 4 caracteres = 2
 
 - $- 1 \le tamanio(s) \le 100$
 
-- $ 1 \le n \le 10^{12}$
+- $1 \le n \le 10^{12}$
 
 ## Estrategia
 
@@ -34,7 +34,7 @@ Podemos pensar lo siguiente :
 
 Luego podemos calcular la cantidad de veces que aparece la letra "a" en los primeros "n" caracteres de las infinitas repeticiones de la siguiente manera:
 
-- Si se da la posibilidad 1 , entonces será la cantidad de veces que aparezca  en "s" multiplicada por "n".
+- Si se da la primera posibilidad, entonces será la cantidad de veces que aparezca  en "s" multiplicada por "n".
 
 - Si se da la segunda posibilidad entonces será la cantidad de veces que aparezca en "s" multiplicada por "n-x" , donde x es la cantidad de caracteres que sobraron y no pudieron formar parte de una repetición de "s".A la cantidad anterior se debe sumar la cantidad de veces que aparezca "a" en el substring s[1:x].
 

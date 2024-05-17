@@ -1,3 +1,7 @@
+/*
+Reverse a vector in an academic way
+*/
+
 #include <iostream>
 #include<vector>
 using namespace std;
@@ -7,7 +11,6 @@ void reverseVector(vector<int> &v){
     int aux;
     for(int i=0;i<=v.size()/2;i++){
         aux = v[v.size()-i];
-        cout << aux<< endl;
         v[v.size()-i] = v[i-1];
         v[i-1] = aux;
     }

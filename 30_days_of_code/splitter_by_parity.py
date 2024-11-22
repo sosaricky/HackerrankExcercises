@@ -1,3 +1,6 @@
+# Level :  Easy
+# Author : RaulSosa
+# Status : Solved
 def splitter_by_parity(msj):
     
     msj_odd = ''

@@ -1,7 +1,6 @@
 // Level : Easy
-// Exercise : AppleAndOrange.cpp
-// Topic  : 
 // Author : RaulSosa
+// Status : Solved
 
 #include<iostream>
 #include<vector>

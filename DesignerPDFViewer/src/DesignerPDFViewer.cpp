@@ -1,5 +1,4 @@
 // Level : Easy
-// Exercise : DesignerPDFViewer.cpp
 // Topic  : Algorithms
 // Author : RaulSosa
 

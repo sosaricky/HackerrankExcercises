@@ -1,8 +1,6 @@
 // Level : Easy
-// Exercise : ElectronicsShop.cpp
-// Topic  : Algorithms
 // Author : RaulSosa
-// Status : Complete
+// Status : Solved
 #include<iostream>
 #include<vector>
 using namespace std;

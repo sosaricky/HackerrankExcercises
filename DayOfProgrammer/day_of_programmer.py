@@ -1,10 +1,7 @@
-"""
-// Level : Easy
-// Exercise : Day of programmer
-// Topic  : Algorithms-Implementation
-// Author : RaulSosa
-// Status : Solved
-"""
+# Level : Easy
+# Author : RaulSosa
+# Status : Solved
+
 def process_julian(year_from_julian):
     # Leap year
     if(year_from_julian % 4 == 0):

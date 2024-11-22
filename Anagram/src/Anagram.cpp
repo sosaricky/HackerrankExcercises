@@ -1,6 +1,4 @@
 // Level :  Easy
-// Exercise : Anagram.cpp
-// Topic  : Strings
 // Author : RaulSosa
 // Status : Solved
 #include<iostream>

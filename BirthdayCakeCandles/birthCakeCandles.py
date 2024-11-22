@@ -1,4 +1,6 @@
-# Level : Easy
+# Level :  Easy
+# Author : RaulSosa
+# Status : Solved
 def birthCakeCandles(candles,numberOfCandles):
     max = candles[0]
     repeatsOfMax = 0

@@ -1,11 +1,9 @@
 // Level : Easy
-// Exercise : NumberLineJumps.cpp
-// Topic  : Algorithms
 // Comment : Es una pelotudes este problema , pero por algún motivo tenia la condición en la cabeza
 //			 y perdí tiempo en poder escribirla bien.No me había quedado claro que ambos
 //			 canguros hacían la misma cantidad de saltos.
 // Author : RaulSosa
-
+// Status : Solved
 #include<iostream>
 using namespace std;
 

@@ -1,6 +1,4 @@
 // Level : Medium
-// Exercise : SherlockAndTheValidString.cpp
-// Topic  :  Strings
 // Author : RaulSosa
 // Status : Solved
 #include<iostream>

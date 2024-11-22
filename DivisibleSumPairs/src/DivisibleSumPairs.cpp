@@ -1,5 +1,4 @@
 // Level : Easy
-// Exercise : DivisibleSumPairs.cpp
 // Topic  : Algorithms
 // Author : ricky
 #include<iostream>

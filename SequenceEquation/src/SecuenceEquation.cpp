@@ -1,6 +1,4 @@
 // Level : Easy
-// Exercise : PermutationEquation.cpp
-// Topic  : Algorithms
 // Author : RaulSosa
 // Status : Solved
 // Comment : Este ejercicio es una boludes,tarde bastante en entender que quería el enunciado.

@@ -1,8 +1,6 @@
 // Level : Easy
-// Exercise : MissingNumbers.cpp
-// Topic  : Sorting
 // Author : RaulSosa
-// Status : (Solved)
+// Status : Solved
 #include <iostream>
 #include <vector>
 #include <algorithm>

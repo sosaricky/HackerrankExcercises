@@ -1,6 +1,4 @@
 // Level : Easy
-// Exercise : CircularArrayRotation.cpp
-// Topic  : Algorithms
 // Author : RaulSosa
 // Status : Solved
 #include<iostream>

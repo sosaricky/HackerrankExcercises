@@ -1,5 +1,4 @@
 // Level : Easy
-// Exercise : DiagonalDifference.cpp
 // Topic  : Algorithms
 // Author : RaulSosa
 

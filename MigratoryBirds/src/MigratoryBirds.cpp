@@ -1,8 +1,6 @@
 // Level : Easy
-// Exercise : MigratoryBirds.cpp
-// Topic  : 
 // Author : RaulSosa
-
+// Status : Solved
 // Two tasks :
 // 1 - Count every occurrence for each type of id
 // 2 - Get maximum from him . Don't forget the case when exists more than one maximum.

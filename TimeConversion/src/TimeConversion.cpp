@@ -1,8 +1,6 @@
 // Level : Easy
-// Exercise : TimeConversion.cpp
-// Topic  : Algorithms
 // Author : RaulSosa
-
+// Status : Solved
 #include <iostream>
 #include <string>
 using namespace std;

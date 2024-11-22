@@ -1,10 +1,7 @@
-"""
-// Level : Easy
-// Exercise : Repeated string
-// Topic  : Algorithms-Implementation
-// Author : RaulSosa
-// Status : Solved
-"""
+# Level : Easy
+# Author : RaulSosa
+# Status : Solved
+
 def get_matches_of_a(s):
     
     count = 0

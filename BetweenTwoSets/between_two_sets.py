@@ -1,3 +1,6 @@
+# Level :  Easy
+# Author : RaulSosa
+# Status : Solved
 def between_two_sets(a: list,b: list)-> int:
     
     candidate_with_first_condition_ok: int = 0

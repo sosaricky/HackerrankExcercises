@@ -1,6 +1,4 @@
 // Level : Medium
-// Exercise : LarrysArray.cpp
-// Topic  : algorithms
 // Author : RaulSosa
 // Status : Solved
 // Obs : I'm not sure about the limits in the first while. I'm talking about maxRepeats.

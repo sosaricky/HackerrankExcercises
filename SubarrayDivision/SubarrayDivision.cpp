@@ -1,6 +1,6 @@
 // Level : Easy
 // Author : RaulSosa
-// Status : Solved
+// Status : Solved.
 #include<iostream>
 #include<vector>
 using namespace std;

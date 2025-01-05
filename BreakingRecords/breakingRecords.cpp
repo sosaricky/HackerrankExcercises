@@ -1,3 +1,7 @@
+// Level :  Easy
+// Author : RickySosa
+// Status : Solved
+
 #include "breakingRecords.h"
 std::vector<int> BreakingRecords::breakingRecords(std::vector<int> scores) {
     
